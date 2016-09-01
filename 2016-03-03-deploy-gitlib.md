@@ -6,6 +6,9 @@ categories: [版本管理工具]
 tags: [gitlab部署]
 ---
 
+　　部署一套gitlab环境比较复杂，这里把部署的过程写成了shell脚本，这大大简化的gitlab部署的成本。
+<!--more-->
+
 # 前言
 　　在51cto的博客上已介绍过[企业级GitLab仓库环境构建](http://zhaochj.blog.51cto.com/368705/1737738)，这里利用两个shell脚本来完成gitlib的部署。
 

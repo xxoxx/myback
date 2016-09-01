@@ -6,6 +6,9 @@ categories: [shell]
 tags: [自建CA]
 ---
 
+   自建CA及为证书颁发是一个复杂有繁琐的事情，所以这里写一个shell脚本来简化相应的工作。
+<!--more-->
+
 　　以下shell脚本能简化手动搭建CA及证书颁发的操作，已在 `debian 8 x64`平台验证通过。
 
 

@@ -8,6 +8,7 @@ tags: [gitlab,git]
 
 
 　　在51cto的博文[《企业级GitLab仓库环境构建》](http://zhaochj.blog.51cto.com/368705/1737738)中已全面的介绍过怎样搭建一个gitlab，这里把整个环境的搭建过程整理后用shell脚本的方式组织起来。
+<!--more-->
 
 　　gitlab软件包安装和基础配置：
 

@@ -6,6 +6,9 @@ categories: [python]
 tags: [条件判断，循环]
 ---
 
+　　python学习笔记之条件判断及循环语句。
+<!--more-->
+
 
 
 # 条件判断和循环

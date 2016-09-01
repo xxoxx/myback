@@ -6,6 +6,9 @@ categories: [shell script]
 tags: [logs del]
 ---
 
+　　线上的一些应用没有对日志进行清理，这里用一个shell脚本来完成日志清理工作。
+<!--more-->
+
 ```sh
 #!/bin/bash
 #Program: logs_clear.sh 

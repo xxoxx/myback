@@ -7,9 +7,8 @@ tags: [redis]
 ---
 
 
-# 简述
-
 　　利用ansible工具完成redis-cluster环境部署主要包括两个部份，第一部份是针对linux主机一些内核参数的优化配置，第二部份是redis实例的部署。如果想了解更多关于redis的手动安装知识请参考[这里](http://zhaochj.blog.51cto.com/368705/1700892)。这次基于ansible工具完成redis-cluster环境的搭建所涉及到的系统、软件版本如下：
+<!--more-->
 
 <pre><code>linux系统的： Debian 8.1 x64
 reids版本： 3.0.5

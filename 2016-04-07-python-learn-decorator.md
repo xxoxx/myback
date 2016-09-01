@@ -6,6 +6,9 @@ categories: [python]
 tags: [装饰器，decorator]
 ---
 
+　　python学习笔记之装饰器
+<!--more-->
+
 
 # 高阶函数
 

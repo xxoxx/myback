@@ -2,7 +2,7 @@
 layout: post
 title: python的列表与元组
 date: 2016/03/16 20:20
-categories: [python]
+categories: [python学习笔记]
 tags: [列表，元组]
 ---
 

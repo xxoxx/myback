@@ -2,7 +2,7 @@
 layout: post
 title: python条件判断及循环语句
 date: 2016/03/16 15:30
-categories: [python]
+categories: [python学习笔记]
 tags: [条件判断，循环]
 ---
 

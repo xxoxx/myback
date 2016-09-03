@@ -2,7 +2,7 @@
 layout: post
 title: python装饰器
 date: 2016/04/07 15:40
-categories: [python]
+categories: [python学习笔记]
 tags: [装饰器，decorator]
 ---
 

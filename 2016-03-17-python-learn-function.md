@@ -2,7 +2,7 @@
 layout: post
 title: python函数
 date: 2016/03/17 21:20
-categories: [python]
+categories: [python学习笔记]
 tags: [函数]
 ---
 

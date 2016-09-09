@@ -79,7 +79,7 @@ if __name__ == '__main__':
     IOLoop.current().start()
 ```
  
-`ArgumentHandler`类是用户自定义类，此类继承`RequestHandler`,接着对`get`方法进行重写，这就是我们在使用`tornado`进行web开发时经常需要做的工作。HTTP协议是定义的`get`、`post`、`delete`等方法在`tornado`中对的同名方法是直接返回`HTTPError(405)`，即是没有实现的方法，这些方法就需要程序员自己根据业务逻辑来实现。源码请[参考](http://www.tornadoweb.org/en/stable/_modules/tornado/web.html#RequestHandler.get)。运行此代码再访问返回如下：
+`ArgumentHandler`类是用户自定义类，此类继承`RequestHandler`,接着对`get`方法进行重写，这就是我们在使用`tornado`进行web开发时经常需要做的工作。HTTP协议定义的`get`、`post`、`delete`等方法在`tornado`中对应的同名方法是直接返回`HTTPError(405)`，即是没有实现的方法，这些方法就需要程序员自己根据业务逻辑来实现。源码请[参考](http://www.tornadoweb.org/en/stable/_modules/tornado/web.html#RequestHandler.get)。运行此代码再访问返回如下：
  
 ![2016-09-08-get_argument](/images/2016-09-08-get_argument.png)
  
